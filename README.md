@@ -1,8 +1,9 @@
-## 设计模式代码实现
+## 设计模式代码
 
 此项目专注于作用多种编程语言来实现不同的设计模式方法。此项目可以做为一个代码库或代码模板来使用。
 
 ## 设计模式的实现
+
 - [创建型模式](https://github.com/xiashuangxi/Design-Patterns-Code/tree/master//src/creational-patterns)
     - [抽象工厂（Abstract Factory）](https://github.com/xiashuangxi/Design-Patterns-Code/tree/master//src/creational-patterns/abstract-factory)
     - [生成器（Builder）](https://github.com/xiashuangxi/Design-Patterns-Code/tree/master//src/creational-patterns/builder)
