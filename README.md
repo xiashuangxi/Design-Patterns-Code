@@ -34,4 +34,4 @@
 
 ## 开源协议
 
-本项目采用的是 [MIT](https://github.com/xiashuangxi/Design-Patterns-Code/blob/main/LICENSE) 开源协议。
+本项目采用的是 [MIT](https://github.com/xiashuangxi/Design-Patterns-Code/blob/master/LICENSE) 开源协议。
