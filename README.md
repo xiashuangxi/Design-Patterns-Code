@@ -11,6 +11,7 @@
     - [原型方法（Prototype）](https://github.com/xiashuangxi/Design-Patterns-Code/tree/master//src/creational-patterns/prototype)
     - [单例模式（Singleton）](https://github.com/xiashuangxi/Design-Patterns-Code/tree/master//src/creational-patterns/singleton)
         - [Java](https://github.com/xiashuangxi/Design-Patterns-Code/tree/master//src/creational-patterns/singleton/java)
+        - [Golang](https://github.com/xiashuangxi/Design-Patterns-Code/tree/master//src/creational-patterns/singleton/golang)
 - [结构型模式](https://github.com/xiashuangxi/Design-Patterns-Code/tree/master//src/structural-patterns)
     - [适配器（Adapter）](https://github.com/xiashuangxi/Design-Patterns-Code/tree/master//src/structural-patterns/adapter)
     - [桥接（Bridge）](https://github.com/xiashuangxi/Design-Patterns-Code/tree/master//src/structural-patterns/bridge)
