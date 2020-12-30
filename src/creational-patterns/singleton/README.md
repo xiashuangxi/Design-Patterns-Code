@@ -1,6 +1,6 @@
 ## 单例（Singleton）
 
-<img style='align=center' src='https://quickchart.io/graphviz?graph=digraph{node[shape=record]Singleton[label="{Singleton|+ getInstance()}"]}'/>
+![](https://quickchart.io/graphviz?graph=digraph%7Bnode%5Bshape=record%5DSingleton%5Blabel=%22%7BSingleton%7C+%20getInstance()%7D%22%5D%7D)
 
 ## 作用
 
